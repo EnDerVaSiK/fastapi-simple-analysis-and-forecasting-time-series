@@ -1,3 +1,14 @@
-venv
-tasks.db
+venv/
+env/
+uploads/
+node_modules/
+build/
+dist/
 .idea
+__pycache__/
+*.db
+*.pyc
+*.pyo
+*.pyd
+.env
+*.log
